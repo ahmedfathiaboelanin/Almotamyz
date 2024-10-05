@@ -1,0 +1,1670 @@
+
+
+<!doctype html>
+<html lang="ar" dir="rtl">
+<!--dir="rtl" lang="ar"-->
+<!---->
+<!-- Mirrored from al-mtmyz.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 05 Oct 2024 11:20:07 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by <!---->-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>المتميز</title>
+		<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJK9HNVSF5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HJK9HNVSF5');
+</script>
+
+	<!-- favicon icon -->
+	<link rel="shortcut icon" href="png/favicon.png"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Almarai&amp;display=swap" rel="stylesheet">
+
+	<!-- bootstrap -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+
+	<!-- animate -->
+	<link rel="stylesheet" type="text/css" href="css/animate.css"/>
+
+	<!-- flaticon -->
+	<link rel="stylesheet" type="text/css" href="css/flaticon.css"/>
+
+	<!-- fontawesome -->
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+
+	<!-- themify -->
+	<link rel="stylesheet" type="text/css" href="css/themify-icons.css"/>
+
+	<!-- slick -->
+	<link rel="stylesheet" type="text/css" href="css/slick.css">
+
+	<!-- Site -->
+	<link rel="stylesheet" type="text/css" href="css/site.css">
+
+	<!-- prettyphoto -->
+	<link rel="stylesheet" type="text/css" href="css/prettyphoto.css">
+
+	<!-- shortcodes -->
+	<link rel="stylesheet" type="text/css" href="css/shortcode.css"/>
+
+	<!-- main -->
+	<link rel="stylesheet" type="text/css" href="css/main_ar.css"/>
+
+	<!-- megamenu -->
+	<link rel="stylesheet" type="text/css" href="css/megamenu_ar.css"/>
+
+
+	<!-- responsive -->
+	<link rel="stylesheet" type="text/css" href="css/responsive.css"/>
+
+	<link rel="stylesheet" href="css/font-awesome.min-2.css">
+
+
+	<link rel="stylesheet" href="css/pe-icon-7-stroke.min.css">
+
+	<link rel="stylesheet" href="css/bootstrap-icons.css">
+
+</head>
+
+<body>
+	<!-- For country List -->
+	<link rel="stylesheet" href="css/countryselect-ar.css">
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+	<script src="js/countryselect.js"></script>
+	<!-- Country List -->
+<!--header start-->
+<!--suppress ALL -->
+
+<header id="masthead" class="header cmt-header-style-01">
+  <!-- cmt-topbar-wrapper -->
+  <div class="cmt-topbar cmt-bgcolor-grey cmt-topbar-wrapper clearfix">
+	<div class="container">
+		<div class="cmt-topbar-content">
+
+		</div>
+		<div class="topbar-left text-left">
+			<ul class="top-contact arnavbaricon">
+
+
+				<li><strong class="cmt-textcolor-grey font-weight-500">
+					<img class="img-fluid"
+									src="png/teliconblue-ar.png" style="max-width: 14px; margin-left: 3px;"
+										 alt="post-003">تحدث إلى أحد ممثلي خدمة العملاء
+				</strong> <span class="tel-no ">920013521</span></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- cmt-topbar end -->
+
+
+		<div id="site-header-menu" class="site-header-menu">
+			<div class="site-header-menu-inner cmt-stickable-header">
+				<div class="container">
+					<div class="row">
+						<div class="col">
+							<!--site-navigation -->
+							<div class="site-navigation d-flex flex-row align-items-center">
+								<!-- site-branding -->
+								<div class="site-branding site-brandingAR mr-auto ml-auto">
+
+									<a class="home-link" href="index-2.html" title="ALMTMYZ" rel="home">
+
+										<img id="logo-img" class="img-center standardlogo imgar"
+											 src="jpg/logo%20with%20logistic%20ar.jpg" alt="logo-img">
+
+										<img id="logo-dark" class="img-center stickylogo imgar"
+											 src="jpg/logo%20with%20logistic%20ar.jpg" alt="logo-img">
+									</a>
+
+								</div><!-- site-branding end -->
+								<div class="btn-show-menu-mobile  menubarAR  menubar--squeeze">
+                                        <span class="menubar-box">
+                                            <span class="menubar-inner"></span>
+                                        </span>
+								</div>
+								<!-- menu -->
+								<nav class="main-menu menu-mobile" id="menu">
+									<ul class="menu">
+										<li
+
+										  class="mega-menu-item"
+										>
+										<a  class="mega-menu-link Arabic_font">
+											<span class="navmenuconstcolor">الشحن </span></a>
+
+										<ul class="mega-submenu navmenuconstcolor ">
+											<li class="active"><a class="navmenuconstcolor" href="index-4.html">تقدير سعر الشحن </a></li>
+											<li><a  href="index-5.html">تحديد موعد الشحن</a></li>
+											<li><a  href="index-6.html"> مدة الشحن</a></li>
+
+										</ul>
+										</li>
+
+										<li class="mega-menu-item">
+											<a target="_blank" href="index-7.html" class=" navmenuconstcolor  Arabic_font">تتبع شحنتك</a>
+									   </li>
+
+
+
+										<li class="mega-menu-item"><a class="mega-menu-link Arabic_font">
+											<span class="navmenuconstcolor">الخدمات</span>
+											</a>
+											<ul class="mega-submenu navmenuconstcolor">
+												<li><a href="ecommerce.html">التجارة الإلكترونية</a></li>
+												<li ><a href="express.html">الشحن اللوجستي السريع</a></li>
+												<li><a href="warehouse.html"> التخزين</a></li>
+
+												<li><a href="logistics.html">الحلول الصناعية</a></li>
+												<li><a href="pharma.html"> لوجستيات سلسلة التبريد</a></li>
+												<li><a href="gateway.html">التخليص الجمركي </a></li>
+												<li><a href="fuelsurcharge.html">رسوم الوقود الإضافية</a></li>
+
+											</ul>
+										</li>
+
+
+
+
+										<li
+										  class="mega-menu-item "
+
+											><a  class="mega-menu-link Arabic_font" >
+										<span class="navmenuconstcolor">نبذة عن المتميز</span>
+										</a>
+											<ul class="mega-submenu navmenuconstcolor ">
+
+											<!-- 	<li class=""><a  href="/ar/Technology/">تقنياتنا</a></li> -->
+												<li><a href="quality.html">سياسة الجودة</a></li>
+												<li><a href="customercharter.html">ميثاق خدمة العملاء</a></li>
+
+
+												<!-- <li><a href="faq.html">Faq</a></li>
+												<li class="mega-menu-item"><a href="shop.html" class="mega-menu-link">Shop</a>
+													<ul class="mega-submenu">
+														<li><a href="product-details.html">Single Product Details</a>
+														</li>
+														<li><a href="cart.html">Cart</a></li>
+														<li><a href="checkout.html">Checkout</a></li>
+													</ul>
+												</li> -->
+											</ul>
+										</li>
+
+										<li class="mega-menu-item">
+											<a  class="mega-menu-link Arabic_font">
+												<span class="navmenuconstcolor"> تواصل معنا</span>
+												</a>
+											<ul class="mega-submenu navmenuconstcolor ">
+
+												<li class=""><a href="index-3.html">تواصل معنا</a></li>
+												<li class="mega-menu-item"><a href="index-8.html" class="mega-menu-link">الشكاوى</a>
+													<ul class="mega-submenu">
+														<li ><a  href="create_complaint.html">إنشاء شكوى</a></li>
+														<li><a onclick="setComplaint(true,'en')">تواصل مع روبوت الدردشة الخاص بنا</a></li>
+														<li ><a href="reachus.html">تواصل مع دعم العملاء</a></li>
+													</ul>
+												</li>
+
+												<li class="mega-menu-item"><a href="index-9.html" class="mega-menu-link">المطالبات</a>
+													<ul class="mega-submenu">
+														<li><a href="create_claim.html">أنشئ مطالبة</a></li>
+														<li ><a href="claimtracking.html">تتبع المطالبة</a></li>
+														<li ><a href="reachus-2.html">تواصل مع دعم العملاء</a></li>
+														<li><a target="_blank" href="pdf/claimprocedureforcustomers-brochuredraft(arabic).html">ارشادات اجراءات المطالبات</a></li>
+													</ul>
+												</li>
+												<li class=""><a  href="index-10.html">الأسئلة الشائعة</a></li>
+
+											</ul>
+										</li>
+
+										<li class="mega-menu-item">
+											<a target="_blank" href="index-11.html" class=" navmenuconstcolor  Arabic_font">انضم لنا كسائق</a>
+									   </li>
+
+
+
+
+
+										<li class="mega-menu-item Arabic_font">
+											<input id="country_selector" type="text"  readonly>
+									</li>
+
+									</ul>
+								</nav>
+
+								<div class="header_extra header_extraAR d-flex flex-row align-items-center justify-content-end">
+
+									<div class="header_search mobilelogin mr-10">
+									   <a href="index-12.html"><i class="fa fa-user cmt-textcolor-skincolor "></i></a>
+								   </div>
+
+
+
+								   <div class="dropdown1">
+									<div class="header_btn">
+									<a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-fill cmt-btn-color-skincolor but-radius Arabic_font text-white"
+									  >تسجيل الدخول</a>
+									</div>
+									<div class="dropdown1-content">
+									  <li><a href="index-12.html">تسجيل دخول الأفراد</a></li>
+
+									</div>
+								  </div>
+
+
+							   </div>
+
+								<div class="header_extra header_extraAR cmt-textcolor-white d-flex flex-row align-items-center justify-content-end">
+
+
+
+								</div>
+
+							<!-- cmt-topbar end -->
+
+
+								<!--Booktstrap start-->
+								<!-- Example single danger button -->
+
+								<!--bootstrap end-->
+							<!-- site-navigation end-->
+								</div>
+				</div>
+			</div>
+		</div><!-- site-header-menu end-->
+
+
+		<!--
+
+
+		<div class="marqueeExample">
+			<marquee class="marqueetext" direction="right">
+				أعزائنا عملاء المتميز إكسبريس ،
+			يرجى العلم أن جميع الشحنات من المتاجر الإلكترونية التي سيتم طلبها من تاريخ 11 ابريل 2023 الموافق 20 رمضان 1444هـ سيتم تسليمها بعد عيد الفطر المبارك.وكل عام وأنتم بخير  </marquee>
+					</div>
+		 -->
+	</header>
+
+
+
+<!-- Floating SPL  -->
+<div class="float-sm">
+
+	<div class="fl-fl fl-fl-ar float-fb">
+		<img src="https://new.almtmyzksa.com/static/images/SPL_Logo.svg" alt="" height="40px" width="36px">
+		<a style="padding-right: 5px" class="" href="https://splonline.com.sa/ar/national-address-1/" target="_blank">حدث عنوانك الوطني</a>
+	  </div>
+</div>
+<!-- Floating SPL -->
+
+
+
+<script>
+	$("#country_selector").countrySelect({
+
+		//defaultCountry: 'sa',
+		// onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
+		//responsiveDropdown: true,
+		preferredCountries: ['sa']
+		});
+
+</script>
+
+<script>
+$(document).ready(function(){
+
+$('li.country').on('click', function() {
+	//sessionStorage.setItem("Countrycode", $(this).attr("data-country-code"));
+	//var countrylist = sessionStorage.getItem("Countrycode");
+	let countrycode = $(this).attr("data-country-code");
+	//console.log("countrycode",countrylist);
+	if (countrycode == 'ae'){
+		window.location.href = "index-2.html"
+	}
+	else if (countrycode == 'bh'){
+		window.location.href = "index-2.html"
+	}
+
+	else if (countrycode == 'om'){
+		window.location.href = "index-2.html"
+	}
+
+	else{
+		window.location.href = "index-2.html"
+	}
+
+});
+
+//List if country we serve to be Bold
+// $("#country-list li:contains('Bahrain')").css('font-weight', 'bold');
+// $("#country-list li:contains('China')").css('font-weight', 'bold');
+// $("#country-list li:contains('Egypt')").css('font-weight', 'bold');
+// $("#country-list li:contains('Germany')").css('font-weight', 'bold');
+// $("#country-list li:contains('India (भारत)')").css('font-weight', 'bold');
+// $("#country-list li:contains('Jordan')").css('font-weight', 'bold');
+// $("#country-list li:contains('Kuwait')").css('font-weight', 'bold');
+// $("#country-list li:contains('Lebanon')").css('font-weight', 'bold');
+// $("#country-list li:contains('Morocco')").css('font-weight', 'bold');
+// $("#country-list li:contains('Oman')").css('font-weight', 'bold');
+// $("#country-list li:contains('Qatar')").css('font-weight', 'bold');
+$("#country-list li:contains('Saudi Arabia')").css('font-weight', 'bold');
+// $("#country-list li:contains('United Arab Emirates')").css('font-weight', 'bold');
+// $("#country-list li:contains('United Kingdom')").css('font-weight', 'bold');
+// $("#country-list li:contains('United States')").css('font-weight', 'bold');
+
+});
+
+</script>
+
+
+
+
+<style>
+	.custompadding{
+		padding: 0px 0 70px !important;
+
+	}
+	.custompadding1{
+		padding-top: 39px;
+	}
+
+@media only screen and (max-width: 1024px){
+.fixedSlide {
+/* height: 392px !important;*/
+
+height: 178px !important;
+}
+.biggerfontsize{
+	font-size: 37px !important;
+}}
+
+@media only screen and (max-width: 1024px)
+{
+	.fixedText{
+		font-size: 14px !important;
+		text-align: right;
+		line-height: 30px !important;
+	}
+	.biggerfontsize{
+	font-size: 37px !important;
+}
+}
+
+@media only screen and (max-width: 575px){
+	.fixedText{
+		font-size: 14px !important;
+		text-align: right;
+		line-height: 30px !important;
+
+	}
+	.biggerfontsize{
+	font-size: 37px !important;
+}
+}
+
+.tradeicon {
+    position: relative;
+    font-size: 40%;
+    line-height: 0;
+    vertical-align: baseline;
+    top: -1.2em;
+}
+
+.slide .slide__content--headings h2{
+	font-size: 50px;
+}
+
+
+</style>
+
+<!--start main slider-->
+<div class="banner_slider_wrapper" dir="rtl" >
+	<div class="banner_slider" data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "arrows":true, "autoplay":true, "dots":false, "infinite":true, "responsive":[{"breakpoint":900,"settings":{"slidesToShow": 1}}]}'>
+
+<!--
+		<a target="_blank">
+			<div class="slide" style="background-image: url(&quot;/static/images/Iherb_Main%20home%20banner_AR.png&quot;);">
+				<div class="slide__content cmt-textcolor-white text-right slide_style2">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-12"style="padding-top: 50px;">
+								<div class="slide__content--headings">
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			</a>
+
+		<a target="_blank" href="https://www.usaddress.com/promotions/naq50?aff=ALMTMYZ">
+		<div class="slide" style="background-image: url(&quot;/static/images/USaddress_Main%20home%20banner_AR.png&quot;);">
+			<div class="slide__content cmt-textcolor-white text-right slide_style2">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12"style="padding-top: 50px;">
+							<div class="slide__content--headings">
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		</a> -->
+<!--
+		<div class="slide fixedSlide" style="background-image: url(&quot;/static/images/EidBanner.png&quot;);">
+			<div class="slide__content cmt-textcolor-white text-right slide_style2">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12"style="padding-top: 50px;">
+							<div class="slide__content--headings">
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>  -->
+
+
+
+			<div class="slide fixedSlide" style=" top:160px; background-image: url(iherbhomebannerar.html);">
+				<div class="slide__content cmt-textcolor-white text-left slide_style2">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-12" style="padding-top: 50px;">
+								<div class="slide__content--headings">
+								<form id="cmt-contactform-3" class="cmt-contactform-1 wrap-form clearfix"
+									method="post"
+									action="https://new.almtmyzksa.com/ar/sa/tracking/">
+								<input type="hidden" name="csrfmiddlewaretoken" value="vL7EUwufz2Xywpr0fk97V9v1BLRScHt94nnxAFph6lmuuFf3MWKjenskNEnqO765">
+								<a class="test" href="https://new.almtmyzksa.com/ar/Iherb/" target="_blank">
+									<div class="border_left">
+										<h2  style="font-size: 60px;" data-animation="fadeInDown" data-delay="3" class="s2 fixedText algenedRight biggerfontsize ">  <sub class="tradeicon">&#174;</sub> iHerb</h2>
+										<h2   style="font-size: 50px;" data-animation="fadeInDown" class="s2 algenedRight fixedText" data-delay="5" >أكثر من 30 ألف<br> منتجات الصحة والعافية</h2>
+										<h2  style="font-size: 50px;" data-animation="fadeInDown" class="s2 algenedRight fixedText" data-delay="5" > <span style="background-color: #e31837; border-radius: 10px;" >خصم 5% مع الرمز ALMTMYZ *</span></h2>
+										<h2 style="font-size: 32px;" data-animation="fadeInDown" class="s2 fixedText algenedRight" data-delay="5" >تسوق الان ></h2>
+										<p class="algenedRight" data-animation="fadeInLeft" data-delay="0.5"  style="font-size: 15px; line-height: 0px;">* لا يمكن جمعه مع عروض اخرى </p>
+									</div>
+								</a>
+								</form>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+		<!-- <div class="slide fixedSlide" style=" top:160px; background-image: url(&quot;/static/images/USaddress-01.png&quot;);">
+
+			<div class="slide__content cmt-textcolor-white text-left slide_style2">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12" style="padding-top: 50px;">
+							<div class="slide__content--headings">
+							<form id="cmt-contactform-3" class="cmt-contactform-1 wrap-form clearfix"
+								method="post"
+								action="/ar/sa/tracking/">
+							   <input type="hidden" name="csrfmiddlewaretoken" value="vL7EUwufz2Xywpr0fk97V9v1BLRScHt94nnxAFph6lmuuFf3MWKjenskNEnqO765">
+							   <a target="_blank" href="/ar/US_Address/" >
+								<div class="border_left">
+									<h2  data-animation="fadeInDown" data-delay="3" class="s2 algenedRight fixedText" >أفضل طريقة للتسوق من الولايات الأمريكية المتحدة</h2>
+									<h2  data-animation="fadeInDown" class="s2 algenedRight fixedText" data-delay="5">احصل على خصم 30%  مع كود الخصم RK23</h2>
+									<h2  data-animation="fadeInDown" class="s2 algenedRight fixedText" data-delay="5" style="color: #e31837;">سجل وتسوق الآن</h2>
+ 									<p data-animation="fadeInLeft" data-delay="0.5" class="algenedRight fixedText" >صالح حتى٢٢ ابريل | تسبق الأحكام والشروط </p>
+
+ 								</div>
+							</a>
+							</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> -->
+
+		<div class="slide" style=" top:160px; background-image: url(jpg/thirdslidear.jpg);">
+
+			<div class="slide__content cmt-textcolor-white text-left slide_style2">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12" style="padding-top: 50px;">
+							<div class="slide__content--headings">
+							<form id="cmt-contactform-3" class="cmt-contactform-1 wrap-form clearfix"
+								method="post"
+								action="https://new.almtmyzksa.com/ar/sa/tracking/">
+							   <input type="hidden" name="csrfmiddlewaretoken" value="vL7EUwufz2Xywpr0fk97V9v1BLRScHt94nnxAFph6lmuuFf3MWKjenskNEnqO765">
+								<div class="border_left">
+									<h2  data-animation="fadeInDown" data-delay="3" class="s2 algenedRight" style="color: #e31837;"> الخدمات اللوجستية </h2>
+									<h2  data-animation="fadeInDown" class="s2 algenedRight" data-delay="5">الخاصة بالصناعة وتشمل <br> الشحن والتخزين وخدمات 3PL</h2>
+<!-- 									<p data-animation="fadeInLeft" data-delay="0.5" class="algenedRight" >أعلى تصنيف خدمة العملاء المحليين والدوليين</p>
+ -->								</div>
+								<div data-animation="fadeInUp" data-delay="1.4" class=" row">
+
+									<div class="col-lg-4 col-md-4 col-sm-12">
+										<span class="text-input"> <input name="waybills" type="text"id="waybills"
+											value=""
+											placeholder="رقم الشحنة/الرقم المرجعي"
+											required="required"></span>
+									</div>
+									<div class="col-lg-2 col-md-4 col-sm-12 divZoom header_btn">
+										<button class=" Arabic_font cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-fill cmt-btn-color-skincolor but-radius w-100"
+																		type="submit">تتبع
+																</button>
+									</div>
+
+
+								</div>
+							</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="slide" style=" top:160px; background-image: url(jpg/homepage-banner3_kmxdzin.jpg);">
+
+			<div class="slide__content cmt-textcolor-white text-left slide_style2">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12" style="padding-top: 50px;">
+							<div class="slide__content--headings">
+							<form id="cmt-contactform-3" class="cmt-contactform-1 wrap-form clearfix"
+								method="post"
+								action="https://new.almtmyzksa.com/ar/sa/tracking/">
+							   <input type="hidden" name="csrfmiddlewaretoken" value="vL7EUwufz2Xywpr0fk97V9v1BLRScHt94nnxAFph6lmuuFf3MWKjenskNEnqO765">
+								<div class="border_left">
+									<h2  data-animation="fadeInDown" data-delay="3" class="s2 algenedRight" style="color: #e31837;"> التسليم في الوقت المحدد </h2>
+									<h2  data-animation="fadeInDown" class="s2 algenedRight" data-delay="5">لقطاع الأعمال مع راحة البال التامة</h2>
+<!-- 									<p data-animation="fadeInLeft" data-delay="0.5" class="algenedRight" >أعلى تصنيف خدمة العملاء المحليين والدوليين</p>
+ -->								</div>
+								<div data-animation="fadeInUp" data-delay="1.4" class=" row">
+
+									<div class="col-lg-4 col-md-4 col-sm-12">
+										<span class="text-input"> <input name="waybills" type="text"id="waybills"
+											value=""
+											placeholder="رقم الشحنة/الرقم المرجعي"
+											required="required"></span>
+									</div>
+									<div class="col-lg-2 col-md-4 col-sm-12 divZoom header_btn">
+										<button class=" Arabic_font cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-fill cmt-btn-color-skincolor but-radius w-100"
+																		type="submit">تتبع
+																</button>
+									</div>
+
+
+								</div>
+							</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="slide" style=" top:160px; background-image: url(jpg/home-bannernew_ar_ctrshks.jpg);">
+
+			<div class="slide__content cmt-textcolor-white text-left slide_style2">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12" style="padding-top: 50px;">
+							<div class="slide__content--headings">
+							<form id="cmt-contactform-3" class="cmt-contactform-1 wrap-form clearfix"
+								method="post"
+								action="https://new.almtmyzksa.com/ar/sa/tracking/">
+							   <input type="hidden" name="csrfmiddlewaretoken" value="vL7EUwufz2Xywpr0fk97V9v1BLRScHt94nnxAFph6lmuuFf3MWKjenskNEnqO765">
+								<div class="border_left">
+									<h2  data-animation="fadeInDown" data-delay="3" class="s2 algenedRight" style="color: #e31837;"> مع المتميز اكسبرس </h2>
+									<h2  data-animation="fadeInDown" class="s2 algenedRight" data-delay="5">تضمن وصول الشحنات لعملائك <br>بأمان تام حتى باب المنزل</h2>
+<!-- 									<p data-animation="fadeInLeft" data-delay="0.5" class="algenedRight" >أعلى تصنيف خدمة العملاء المحليين والدوليين</p>
+ -->								</div>
+								<div data-animation="fadeInUp" data-delay="1.4" class=" row">
+
+									<div class="col-lg-4 col-md-4 col-sm-12">
+										<span class="text-input"> <input name="waybills" type="text"id="waybills"
+											value=""
+											placeholder="رقم الشحنة/الرقم المرجعي"
+											required="required"></span>
+									</div>
+									<div class="col-lg-2 col-md-4 col-sm-12 divZoom header_btn">
+										<button class=" Arabic_font cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-fill cmt-btn-color-skincolor but-radius w-100"
+																		type="submit">تتبع
+																</button>
+									</div>
+
+
+								</div>
+							</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+</div>
+<!--site-main start-->
+<div class="site-main">
+		<!--features-section-->
+		<section class="cmt-row top-zero-padding-section cmt-bgcolor-skincolor  clearfix custompadding" style="border-top: 3px solid white;">
+			<div class="container">
+
+				<div class="row">
+					<div class=" col-lg-7 col-md-10 col-sm-12 m-auto">
+						<div class="mt-35 res-991-mt-15 text-center botton_center_txt font-weight-500 custompadding1" style="font-size: 26px;">
+							انضم لقائمة عملاء "المتميز" المميزين  <a href="index-13.html">
+							<strong class="text-danger"> بادر بالانضمام الآن!  <i class="fa fa-arrow-circle-left mr-2"></i></strong></a>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+
+		</section>
+		<!--End features-section -->
+
+	  <!-- portfolio-section end -->
+<section class="cmt-row portfolio-section clearfix">
+		<div class="container">
+			 <!--row-->
+			 <div class="row">
+				 <div class="col-lg-12 col-md-12 col-sm-12 m-auto">
+					 <!--section title-->
+					 <div class="section-title text-center Arabic_font">
+						 <div class="title-header">
+							 <h3>خدماتنا</h3>
+							 <h2 class="title Naqelbluecolor ">الآن، يمكن للأفراد والشركات إدارة كافة
+								<br>الاحتياجات اللوجستية في مكانٍ واحد</h2>
+						 </div>
+					 </div><!--section title end-->
+				 </div>
+			 </div><!--row end-->
+			 <div class="row">
+				 <div class="col-lg-4 col-md-4 col-sm-6">
+					 <!-- featured-imagebox-post -->
+					 <div class="featured-imagebox featured-imagebox-portfolio style4">
+						 <div class="cmt-box-view-overlay cmt-portfolio-box-view-overlay">
+							 <div class="featured-thumbnail">
+								 <img class="img-fluid" src="jpg/e-commerce-home.jpg" alt="blog_img">
+							 </div>
+						<!-- 	 <div class="cmt-media-link">
+								 <a class="cmt_prettyphoto cmt_image" title="The Minimize Cost Of Manufacturing" href="#" data-rel="prettyPhoto" tabindex="0">
+									 <i class="fa fa-search"></i>
+								 </a>
+								 <a href="#" class="cmt_link" tabindex="0"><i class="ti ti-link"></i></a>
+							 </div> -->
+						 </div>
+						 <div class="featured-content box-shadow">
+							 <div class="portfolio-category">
+								<!--  <span>المخازن الإلكترونية خدمات التوصيل</span> -->
+							 </div>
+							 <div class="featured-title">
+								 <h3><a class="Naqelbluecolor" href="ecommerce.html">خدمات التجارة الإلكترونية</a></h3>
+							 </div>
+						 </div>
+					 </div><!-- featured-imagebox-post end -->
+				 </div>
+				 <div class="col-lg-4 col-md-4 col-sm-6">
+					 <!-- featured-imagebox-post -->
+					 <div class="featured-imagebox featured-imagebox-portfolio style4">
+						 <div class="cmt-box-view-overlay cmt-portfolio-box-view-overlay">
+							 <div class="featured-thumbnail">
+								<img class="img-fluid" src="png/express.png" alt="blog_img">
+							 </div>
+						<!-- 	 <div class="cmt-media-link">
+								 <a class="cmt_prettyphoto cmt_image" title="For Warehouse On-Hand Inventory" href="/ar/services/Express" data-rel="prettyPhoto" tabindex="0">
+									 <i class="fa fa-search"></i>
+								 </a>
+								 <a href="#" class="cmt_link" tabindex="0"><i class="ti ti-link"></i></a>
+							 </div> -->
+						 </div>
+						 <div class="featured-content box-shadow">
+							 <div class="portfolio-category">
+								<!--  <span>شحن الطرود والبضائع على ألواح تحميل (بالت)</span> -->
+							 </div>
+							 <div class="featured-title">
+								 <h3><a class="Naqelbluecolor" href="express.html">خدمات الشحن  اللوجستي السريع</a></h3>
+							 </div>
+						 </div>
+					 </div><!-- featured-imagebox-post end -->
+				 </div>
+				 <div class="col-lg-4 col-md-4 col-sm-6">
+					 <!-- featured-imagebox-post -->
+					 <div class="featured-imagebox featured-imagebox-portfolio style4">
+						 <div class="cmt-box-view-overlay cmt-portfolio-box-view-overlay">
+							 <div class="featured-thumbnail">
+								<img class="img-fluid" src="png/logis.png" alt="blog_img">
+							 </div>
+						<!-- 	 <div class="cmt-media-link">
+								 <a class="cmt_prettyphoto cmt_image" title="Impact of Rising Online Grocery Sales" href="#" data-rel="prettyPhoto" tabindex="0">
+									 <i class="fa fa-search"></i>
+								 </a>
+								 <a href="#" class="cmt_link" tabindex="0"><i class="ti ti-link"></i></a>
+							 </div> -->
+						 </div>
+						 <div class="featured-content box-shadow">
+							 <div class="portfolio-category">
+								<!--  <span>الشحن، التخزين</span> -->
+
+							 </div>
+							 <div class="featured-title">
+								 <h3><a class="Naqelbluecolor" href="logisticsservices.html">الخدمات اللوجستية</a></h3>
+							 </div>
+						 </div>
+					 </div><!-- featured-imagebox-post end -->
+				 </div>
+			 </div>
+		 </div>
+ </section>
+ <!-- portfolio-section end -->
+
+<!--fid-section-->
+<section class="cmt-row fid-section_1 cmt-bg cmt-bgimage-yes cmt-bgcolor-skincolor pb-50 clearfix">
+		<div class=" cmt-bg-layer cmt-row-wrapper-bg-layer"></div>
+		<div class="container">
+		<!-- 	<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12">
+					<div class="mb-5 text-center">
+						<a href="#"
+						   class="cmt-icon cmt-icon_element-fill cmt-icon_element-color-white cmt-icon_element-size-md cmt-icon_element-style-rounded">
+							<i class="flaticon flaticon-location"></i>
+						</a>
+					</div>
+				</div>
+			</div> -->
+			<!--row-->
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12">
+					<!--section title-->
+					<div class="section-title text-center Arabic_font">
+						<div class="title-header">
+							<h3>أبرز ما يميزنا</h3>
+							<h2 class="title cmt-textcolor-white">لدينا أكبر وأحدث شبكة لوجستية على مستوى 	<br>المملكة العربية السعودية</h2>
+						</div>
+					</div><!--section title end-->
+				</div>
+			</div><!--row end-->
+			<div class="row">
+				<div class="col-lg-3 col-md-6 col-sm-12 cmt-box-col-wrapper style4 divZoom">
+					<!-- cmt-fid -->
+					<div class="cmt-fid inside cmt-fid-with-icon style4 bgalmtmyzred inside-box">
+						<div class="cmt-fid-center">
+							<div class="cmt-icon cmt-icon_element-onlytxt cmt-icon_element-color-skincolor whitecoloricon cmt-icon_element-size-md">
+								<i class="flaticon flaticon-open"></i>
+							</div>
+							<div class="cmt-fid-contents">
+								<h2 class="cmt-fid-inner text-White_h2">
+                                                <span id="number1" data-appear-animation="animateDigits"
+													  data-from="0"
+													  data-to="20"
+													  data-interval="1"
+													  data-before=""
+													  data-before-style="sup"
+													  data-after=""
+													  data-after-style="sub"
+													  class="numinate">20
+                                                </span>
+									<span></span>
+								</h2>
+								<h3 class="cmt-fid-title text-white">مليون شحنة سنويا</h3>
+							</div>
+						</div>
+					</div><!-- cmt-fid end -->
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12 cmt-box-col-wrapper style4 divZoom">
+					<!-- cmt-fid -->
+
+					<!-- cmt-fid -->
+					<div class="cmt-fid inside cmt-fid-with-icon style4 bgalmtmyzred inside-box">
+						<div class="cmt-fid-center">
+							<div class="cmt-icon cmt-icon_element-onlytxt cmt-icon_element-color-skincolor whitecoloricon cmt-icon_element-size-md">
+								<i class="ti ti-user"></i>
+							</div>
+							<div class="cmt-fid-contents">
+								<h2 class="cmt-fid-inner text-White_h2">
+                                                <span id="number3" data-appear-animation="animateDigits"
+													  data-from="0"
+													  data-to="5000"
+													  data-interval="15"
+													  data-before=""
+													  data-before-style="sup"
+													  data-after=""
+													  data-after-style="sub"
+													  class="numinate">5000
+                                                </span>
+									<span>+</span>
+								</h2>
+								<h3 class="cmt-fid-title text-white">موظف</h3>
+							</div>
+						</div>
+					</div><!-- cmt-fid end -->
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12 cmt-box-col-wrapper style4 divZoom">
+					<!-- cmt-fid -->
+					<div class="cmt-fid inside cmt-fid-with-icon style4 bgalmtmyzred inside-box">
+						<div class="cmt-fid-center">
+							<div class="cmt-icon cmt-icon_element-onlytxt cmt-icon_element-color-skincolor whitecoloricon cmt-icon_element-size-md">
+								<i class="flaticon flaticon-truck"></i>
+							</div>
+							<div class="cmt-fid-contents">
+								<h2 class="cmt-fid-inner text-White_h2">
+                                                <span id="number4" data-appear-animation="animateDigits"
+													  data-from="0"
+													  data-to="4000"
+													  data-interval="15"
+													  data-before=""
+													  data-before-style="sup"
+													  data-after=""
+													  data-after-style="sub"
+													  class="numinate">4000
+                                                </span>
+									<span>+</span>
+								</h2>
+								<h3 class="cmt-fid-title text-white">شاحنة</h3>
+							</div>
+						</div>
+					</div><!-- cmt-fid end -->
+				</div>
+			</div>
+		</div>
+</section>
+	<!-- fid-section end -->
+
+	<!--	 Contries We Serve Start-->
+	<section class="cmt-row bottom-zero-padding-section clearfix">
+		<div class="container">
+			<!--row-->
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 m-auto">
+					<!--section title-->
+					<div class="section-title text-center mb-0 Arabic_font">
+						<div class="title-header">
+									<h3 style="color: #06205C;">كفاءة , مسؤولية , احترام , مشاركة
+									</h3>
+									<h2 class=" Naqelbluecolor">نقدم</h2>
+									<img height="60px" src="png/tagline%20ar.png" style="padding-right: 18px;">
+						</div>
+					</div><!--section title end-->
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+
+   <!-- aboutus-section -->
+   <section class="cmt-row aboutus-section cmt-bgcolor-white clearfix">
+<! -- image-->
+</section><!-- aboutus-section end -->
+
+<!--blog-section-->
+<section class="cmt-row blog-section bg-layer cmt-bgimage-yes cmt-bg bg-img3 clearfix">
+	<div class="cmt-col-wrapper-bg-layer cmt-bg-layer"></div>
+	<div class="container">
+		<!-- row -->
+		<div class="row">
+			<!-- section title -->
+			<div class="col-lg-12 col-md-12 col-sm-12 m-auto">
+				<!--section title-->
+				<div class="section-title text-center Arabic_font">
+					<div class="title-header">
+						<h3>أبرز الأخبار حول</h3>
+						<h2 class="title Naqelbluecolor"> المتميز إكسبرس</h2>
+					</div>
+				</div><!--section title end-->
+			</div>
+		</div><!--row end-->
+
+
+		<div style="direction: ltr;" class="row slick_slider services" data-slick='{"slidesToShow": 2, "slidesToScroll": 1, "arrows":false,"dots":true, "autoplay":true, "infinite":true,"responsive": [{"breakpoint":1100,"settings":{"slidesToShow": 2}} , {"breakpoint":992,"settings":{"slidesToShow": 2}},
+				{"breakpoint":630,"settings":{"slidesToShow": 1}}]}'>
+
+
+
+			<div style="direction: ltr;" class=" col-12">
+				<!-- featured-imagebox -->
+				<div class="row no-gutters featured-imagebox featured-imagebox-service cmt-box-view-left-image style1 box-shadow">
+					<div class="col-lg-6 col-md-12 col-sm-12 cmt-featured-img-left">
+						<div class="featured-thumbnail">
+							<img class="img-fluid"
+								 src="jpg/egypt_inaugration_9vxrryd.jpg"
+								 alt="service">
+
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-12  col-sm-12 featured-content">
+						<div class="post-title featured-title">
+						</div>
+						<div class="show4lins featured-desc cmt-box-desc">
+							.
+						</div>
+						<div class="servicebox-readmore readmoreiconAR readmoretextAR">
+							<a class="Naqelbluecolor" href="index-14.html">اقرأ اكثر</a>
+						</div>
+					</div>
+				</div><!-- featured-imagebox end-->
+			</div>
+
+			<div style="direction: ltr;" class=" col-12">
+				<!-- featured-imagebox -->
+				<div class="row no-gutters featured-imagebox featured-imagebox-service cmt-box-view-left-image style1 box-shadow">
+					<div class="col-lg-6 col-md-12 col-sm-12 cmt-featured-img-left">
+						<div class="featured-thumbnail">
+							<img class="img-fluid"
+								 src="png/almtmyz_spl_3.html"
+								 alt="service">
+
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-12  col-sm-12 featured-content">
+						<div class="post-title featured-title">
+							<h3><a class="Naqelbluecolor" href="index-15.html">إتحاد الخبراء ، سبل تستحوذ على المتميز اكسبرس</a></h3>
+						</div>
+						<div class="show4lins featured-desc cmt-box-desc">
+							&lt;br&gt; لامست المتميز اكسبريس نقلة نوعية جديدة في سير نموها، حيث أعلنت سبل اليوم عن استحواذها بالكامل على المتميز.
+						</div>
+						<div class="servicebox-readmore readmoreiconAR readmoretextAR">
+							<a class="Naqelbluecolor" href="index-15.html">اقرأ اكثر</a>
+						</div>
+					</div>
+				</div><!-- featured-imagebox end-->
+			</div>
+
+			<div style="direction: ltr;" class=" col-12">
+				<!-- featured-imagebox -->
+				<div class="row no-gutters featured-imagebox featured-imagebox-service cmt-box-view-left-image style1 box-shadow">
+					<div class="col-lg-6 col-md-12 col-sm-12 cmt-featured-img-left">
+						<div class="featured-thumbnail">
+							<img class="img-fluid"
+								 src="png/520_x_520_px.png"
+								 alt="service">
+
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-12  col-sm-12 featured-content">
+						<div class="post-title featured-title">
+							<h3><a class="Naqelbluecolor" href="index-16.html">شركة طائرات الشارتر العالمية &quot;Chapman Freeborn Airchartering&quot; عينت شركة &quot;المتميز اكسبرس &quot; شريكًا حصريًا لها داخل المملكة</a></h3>
+						</div>
+						<div class="show4lins featured-desc cmt-box-desc">
+							تتمتع كلٌ من &quot;المتميز اكسبرس &quot; و&quot;Chapman Freeborn&quot; باسم ذائع الصيت وسمعة طيبة في مجال الطيران. ستفتح هذه الشراكة الباب أمام العملاء للاستفادة من مجموعة كاملة من الحلول اللوجستية الشاملة التي تلبي احتياجات القطاعات كافة. سيعود هذا التعاون بمنفعة هائلة على كلتا الشركتين، إذا سيعمق وجودهم ويوسع نطاق خدماتهم داخل أراضي المملكة، وسيتيح للمملكة نفسها فرصة العمل في قطاعات صناعية متعددة.
+						</div>
+						<div class="servicebox-readmore readmoreiconAR readmoretextAR">
+							<a class="Naqelbluecolor" href="index-16.html">اقرأ اكثر</a>
+						</div>
+					</div>
+				</div><!-- featured-imagebox end-->
+			</div>
+
+			<div style="direction: ltr;" class=" col-12">
+				<!-- featured-imagebox -->
+				<div class="row no-gutters featured-imagebox featured-imagebox-service cmt-box-view-left-image style1 box-shadow">
+					<div class="col-lg-6 col-md-12 col-sm-12 cmt-featured-img-left">
+						<div class="featured-thumbnail">
+							<img class="img-fluid"
+								 src="png/jeddah_warehouse_2_1.png"
+								 alt="service">
+
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-12  col-sm-12 featured-content">
+						<div class="post-title featured-title">
+							<h3><a class="Naqelbluecolor" href="index-17.html">إطلاق اثنين من المرافق اللوجستية الحديثة في جدة</a></h3>
+						</div>
+						<div class="show4lins featured-desc cmt-box-desc">
+							في إطار سعيها الدائم لتوسيع شبكتها اللوجستية وتقديم خدمة أفضل لعملائها، قامت &quot;المتميز إكسبريس&quot; بافتتاح مرفقين جديدين لها في جدة، وهما: المنفذ الجوي الجديد في مطار الملك عبد العزيز الدولي، والمرافق الجديدة المخصصة للتخزين البارد للأدوية والمنتجات الحساسة لدرجة الحرارة.
+						</div>
+						<div class="servicebox-readmore readmoreiconAR readmoretextAR">
+							<a class="Naqelbluecolor" href="index-17.html">اقرأ اكثر</a>
+						</div>
+					</div>
+				</div><!-- featured-imagebox end-->
+			</div>
+
+			<div style="direction: ltr;" class=" col-12">
+				<!-- featured-imagebox -->
+				<div class="row no-gutters featured-imagebox featured-imagebox-service cmt-box-view-left-image style1 box-shadow">
+					<div class="col-lg-6 col-md-12 col-sm-12 cmt-featured-img-left">
+						<div class="featured-thumbnail">
+							<img class="img-fluid"
+								 src="png/zero_complaints_2_1_lcxlzmi.png"
+								 alt="service">
+
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-12  col-sm-12 featured-content">
+						<div class="post-title featured-title">
+							<h3><a class="Naqelbluecolor" href="index-18.html">عدم تسجيل أي حالات لشكاوى العملاء</a></h3>
+						</div>
+						<div class="show4lins featured-desc cmt-box-desc">
+							وفقًا للتقرير الصادر عن هيئة الاتصالات وتقنية المعلومات، فقد تفوقت &quot;المتميز إكسبريس&quot; على منافسيها المحليين والدوليين بعدم تسجيل أي حالات من شكاوى العملاء أو تعطل الخدمة لكل 100000 شحنة دولية تم نقلها عبر الحدود خلال الربع الثاني من العام.
+						</div>
+						<div class="servicebox-readmore readmoreiconAR readmoretextAR">
+							<a class="Naqelbluecolor" href="index-18.html">اقرأ اكثر</a>
+						</div>
+					</div>
+				</div><!-- featured-imagebox end-->
+			</div>
+
+			<div style="direction: ltr;" class=" col-12">
+				<!-- featured-imagebox -->
+				<div class="row no-gutters featured-imagebox featured-imagebox-service cmt-box-view-left-image style1 box-shadow">
+					<div class="col-lg-6 col-md-12 col-sm-12 cmt-featured-img-left">
+						<div class="featured-thumbnail">
+							<img class="img-fluid"
+								 src="png/aeo_2_1.png"
+								 alt="service">
+
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-12  col-sm-12 featured-content">
+						<div class="post-title featured-title">
+							<h3><a class="Naqelbluecolor" href="index-19.html">مشغل اقتصادي معتمد من هيئة الجمارك السعودية</a></h3>
+						</div>
+						<div class="show4lins featured-desc cmt-box-desc">
+							وافقت هيئة الجمارك السعودية على انضمام شركة &quot;المتميز إكسبريس&quot; رسميًا إلى برنامج أولوية (المشغل الاقتصادي المعتمد)، وهو إطار عمل عالمي وضعته منظمة الجمارك العالمية.
+						</div>
+						<div class="servicebox-readmore readmoreiconAR readmoretextAR">
+							<a class="Naqelbluecolor" href="index-19.html">اقرأ اكثر</a>
+						</div>
+					</div>
+				</div><!-- featured-imagebox end-->
+			</div>
+
+		</div>
+
+
+
+		<!-- <div style="direction: ltr;" class="row slick_slider blog"
+			 data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "arrows":false, "autoplay":false, "dots":false, "infinite":true, "responsive":[{"breakpoint":1199,"settings": {"slidesToShow": 3}}, {"breakpoint":992,"settings":{"slidesToShow": 2}},{"breakpoint":620,"settings":{"slidesToShow": 1}}]}'>
+
+
+			<div style="direction: ltr;" class="col-12">
+				<!-- featured-imagebox-post
+				<div class="featured-imagebox featured-imagebox-post  style1">
+					<div class="cmt-post-thumbnail featured-thumbnail">
+						<img class="img-fluid"
+							 src="https://via.placeholder.com/720x520?text=720x520+cmt-post-003-720x520.png"
+							 alt="image">
+						<div class="cmt-box-post-categories">
+							<div class="post-category">
+								<a href="blog-classic.html">Household</a>
+							</div>
+						</div>
+					</div>
+					<div class="featured-content featured-content-post">
+						<div class="cmt-entry-date">
+							<time class="entry-month" datetime="2019-07-28T07:07:55+00:00">April
+								<span class="entry-date">6</span>
+								<span>,</span>
+								<span class="entry-year">2020</span>
+							</time>
+						</div>
+
+						<div class="post-title featured-title">
+							<h3><a href="/ar/latestNews/72/">ALMTMYZ Express Opens New Outlet, Warehouse and E-fulfilment Centre in Cairo, Egypt</a></h3>
+						</div>
+						<div class="entry-content">
+							<div class="cmt-box-desc-text">
+								.
+							</div>
+							<div class="cmt-blogbox-desc-footer">
+								<a class="cmt-btn btn-inline cmt-icon-btn-right cmt-btn-color-dark"
+								   href="blog-single-view.html" tabindex="-1">Read More<i
+										class="ti ti-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div><!-- featured-imagebox-post end
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+			<div class="col-12">
+				<!-- featured-imagebox-post
+				<div class="featured-imagebox featured-imagebox-post  style1">
+					<div class="cmt-post-thumbnail featured-thumbnail">
+						<img class="img-fluid"
+							 src="https://via.placeholder.com/720x520?text=720x520+cmt-post-002-1-720x520.jpg"
+							 alt="image">
+						<div class="cmt-box-post-categories">
+							<div class="post-category">
+								<a href="blog-classic.html">logistics</a>
+							</div>
+						</div>
+					</div>
+					<div class="featured-content featured-content-post">
+						<div class="cmt-entry-date">
+							<time class="entry-month" datetime="2019-07-28T07:07:55+00:00">April
+								<span class="entry-date">30</span>
+								<span>,</span>
+								<span class="entry-year">2020</span>
+							</time>
+						</div>
+						<div class="post-title featured-title">
+							<h3><a href="blog-single-view.html">Importers Achieves Saving Through Logistic First
+								Sale Rule.</a></h3>
+						</div>
+						<div class="entry-content">
+							<div class="cmt-box-desc-text">
+								There are full service copany is to provide solution fv repairing manage the
+								entire
+								service center for car service....
+							</div>
+							<div class="cmt-blogbox-desc-footer">
+								<a class="cmt-btn btn-inline cmt-icon-btn-right cmt-btn-color-dark"
+								   href="blog-single-view.html" tabindex="-1">Read More<i
+										class="ti ti-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div><!-- featured-imagebox-post end
+			</div>
+			<div class="col-12">
+				<!-- featured-imagebox-post -
+				<div class="featured-imagebox featured-imagebox-post  style1">
+					<div class="cmt-post-thumbnail featured-thumbnail">
+						<img class="img-fluid"
+							 src="https://via.placeholder.com/720x520?text=720x520+cmt-blog03-720x520.jpg"
+							 alt="image">
+						<div class="cmt-box-post-categories">
+							<div class="post-category">
+								<a href="blog-classic.html">Transport</a>
+							</div>
+						</div>
+					</div>
+					<div class="featured-content featured-content-post">
+						<div class="cmt-entry-date">
+							<time class="entry-month" datetime="2019-07-28T07:07:55+00:00">April
+								<span class="entry-date">3</span>
+								<span>,</span>
+								<span class="entry-year">2020</span>
+							</time>
+						</div>
+						<div class="post-title featured-title">
+							<h3><a href="blog-single-view.html">Making innovation for globalization possible</a>
+							</h3>
+						</div>
+						<div class="entry-content">
+							<div class="cmt-box-desc-text">
+								There are full service copany is to provide solution fv repairing manage the
+								entire
+								service center for car service....
+							</div>
+							<div class="cmt-blogbox-desc-footer">
+								<a class="cmt-btn btn-inline cmt-icon-btn-right cmt-btn-color-dark"
+								   href="blog-single-view.html" tabindex="-1">Read More<i
+										class="ti ti-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div><!-- featured-imagebox-post end-
+			</div>
+			<div class="col-12">
+				<!-- featured-imagebox-post -
+				<div class="featured-imagebox featured-imagebox-post  style1">
+					<div class="cmt-post-thumbnail featured-thumbnail">
+						<img class="img-fluid"
+							 src="https://via.placeholder.com/720x520?text=720x520+cmt-blog04-720x520.jpg"
+							 alt="image">
+						<div class="cmt-box-post-categories d-flex">
+							<div class="post-category">
+								<a class="mr-2" href="blog-classic.html">Comercial</a>
+								<a href="blog-classic.html">Transport</a>
+							</div>
+						</div>
+					</div>
+					<div class="featured-content featured-content-post">
+						<div class="cmt-entry-date">
+							<time class="entry-month" datetime="2019-07-28T07:07:55+00:00">April
+								<span class="entry-date">30</span>
+								<span>,</span>
+								<span class="entry-year">2020</span>
+							</time>
+						</div>
+						<div class="post-title featured-title">
+							<h3><a href="blog-single-view.html">Delivering the best global logistics
+								services</a>
+							</h3>
+						</div>
+						<div class="entry-content">
+							<div class="cmt-box-desc-text">
+								There are full service copany is to provide solution fv repairing manage the
+								entire
+								service center for car service....
+							</div>
+							<div class="cmt-blogbox-desc-footer">
+								<a class="cmt-btn btn-inline cmt-icon-btn-right cmt-btn-color-dark"
+								   href="blog-single-view.html" tabindex="-1">Read More<i
+										class="ti ti-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div><!-- featured-imagebox-post end--
+			</div>
+			<div class="col-12">
+				<!-- featured-imagebox-post --
+				<div class="featured-imagebox featured-imagebox-post  style1">
+					<div class="cmt-post-thumbnail featured-thumbnail">
+						<img class="img-fluid"
+							 src="https://via.placeholder.com/720x520?text=720x520+cmt-post-001-720x520.png"
+							 alt="image">
+						<div class="cmt-box-post-categories">
+							<div class="post-category">
+								<a href="blog-classic.html">Transport</a>
+							</div>
+						</div>
+					</div>
+					<div class="featured-content featured-content-post">
+						<div class="cmt-entry-date">
+							<time class="entry-month" datetime="2019-07-28T07:07:55+00:00">April
+								<span class="entry-date">30</span>
+								<span>,</span>
+								<span class="entry-year">2020</span>
+							</time>
+						</div>
+						<div class="post-title featured-title">
+							<h3><a href="blog-single-view.html">Sustainability at question as import and export
+								of
+								the commodities</a></h3>
+						</div>
+						<div class="entry-content">
+							<div class="cmt-box-desc-text">
+								There are full service copany is to provide solution fv repairing manage the
+								entire
+								service center for car service....
+							</div>
+							<div class="cmt-blogbox-desc-footer">
+								<a class="cmt-btn btn-inline cmt-icon-btn-right cmt-btn-color-dark"
+								   href="blog-single-view.html" tabindex="-1">Read More<i
+										class="ti ti-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div><!-- featured-imagebox-post end--
+			</div>
+
+		</div> -->
+	</div>
+</section><!--End blog-section -->
+
+</div><!--Main site Over-->
+
+<style>
+	.featured-imagebox-service.style1 .servicebox-readmore a:before{
+		content: "\e629" !important;
+		padding-right: 5px;
+
+	}
+
+	.inside-box{
+  padding: 28px 25px 25px !important;
+}
+</style>
+
+<script>
+
+$('#waybills').on('keypress', function (event) {
+    var regex = new RegExp("^[a-z0-9,\r\n]+$");
+    var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+    if (!regex.test(key)) {
+       event.preventDefault();
+       return false;
+    }
+});
+</script>
+
+
+
+
+
+
+
+<style>
+	br{
+		display: block;
+	}
+</style>
+<!--footer start-->
+<footer class="footer widget-footer clearfix">
+	<div class="first-footer footerAR">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-md-6 col-lg-3 widget-area">
+					<div class="widget widget_text  clearfix">
+						<div class="footer-logo">
+							<img id="footer-logo-img" class="img-center" src="png/logoar.png" alt="">
+						</div>
+
+						<ul class="widget_contact_wrapper">
+							<li class="footerAR_firstChild">
+								<i class="fa fa-map-marker cmt-textcolor-skincolor"></i>
+								<a target="_blank"  href="#">المكت الرئسي : جده - حي الواحه<br>  </a>
+
+							</li>
+							<!-- <li  class="footerAR_firstChild">
+								<i class="fa fa-map-pin cmt-textcolor-skincolor"></i><a target="_blank" href="https://goo.gl/maps/7CduHmqjxVyCR4rR6">
+								العنوان المختصر <strong>- REQA7924</strong></a>
+							</li> -->
+							<li class="footerAR_firstChild">
+								<i class="fa fa-envelope-o cmt-textcolor-skincolor"></i>
+								<a href="mailto:almtmyzalawllnqlaltrwd@gmail.com">almtmyzalawllnqlaltrwd@gmail.com</a>
+							</li>
+							<li class="footerAR_firstChild">
+								<img class="img-fluid"
+									src="png/telicon-ar.png" style="max-width: 15px; margin-left: 3px;"
+										 alt="post-003">السعودية -  920013521<br> <br> <br><br><br>
+																				</li>
+
+						</ul>
+
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-6 col-lg-3 widget-area">
+					<div class="widget widget_nav_menu clearfix">
+						<h3 class="widget-title">روابط سريعة</h3>
+						<ul class="menu-footer-quick-links">
+
+							<li><a target="_blank" href="https://splonline.com.sa/">سبل</a></li>
+							<li><a href="customercharter.html">ميثاق خدمة العملاء</a></li>
+							<li><a target="_blank" href="pdf/almtmyztermsconditions.html">الخدمات والشروط</a></li>
+							<li><a href="index-3.html">تواصل معنا</a></li>
+
+							<li><a target="_blank" href="pdf/regulationsforpostallawar.html"></a></li>
+
+							<li><a target="_blank" href="pdf/beneficiaries_rights_obligations.html"></a></li>
+
+							<li><a href="almtmyzapis.html"></a></li>
+							<!-- <li><a target="_blank" href="/ar/sa/pdfs/COVID19">توجيهات السلامة من كوفيد-19 -->
+							</a></li>
+
+
+						</ul>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-6 col-lg-3 widget-area">
+					<div class="widget widget_nav_menu clearfix">
+						<h3 class="widget-title">حمل تطبيق المتميز</h3>
+						<ul class="menu-footer-quick-service-links">
+
+							<li><a href="index-20.html" target="_blank" class="d-block mb-2"> <img
+								src="jpg/qr_app.jpg" class="img-thumbnail"/> </a></li>
+						<li><a target="_blank"
+							   href="https://play.google.com/store/apps/details?id=com.almtmyz.mobile.android"
+							   class="d-block mb-2" data-abc="true"><img class="img-responsive"
+																		 src="png/android3.png"
+																		 height="40" width="123"></a></li>
+						<li><a target="_blank" href="https://itunes.apple.com/sa/app/almtmyzexpress/id1297949272?mt=8"
+							   class="d-block mb-2" data-abc="true"><img class="img-responsive"
+																		 src="png/ios.png"
+																		 height="40" width="123"></a></li>
+						<li><a target="_blank" href="https://appgallery.huawei.com/app/expr"
+								class="d-block mb-2" data-abc="true"><img class="img-responsive"
+																		src="png/appgallery.png"
+																		height="40" width="123"></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-6 col-lg-3 widget-area">
+					<div class="widget widget-text clearfix">
+						<h3 class="widget-title">اشترك للحصول على آخر التحديثات</h3>
+						<!-- <p>اشترك للحصول على آخر التحديثات.</p> -->
+						<form id="subscribe-form" class="newsletter-form"
+							  data-mailchimp="true">
+							<input type="hidden" name="csrfmiddlewaretoken" value="vL7EUwufz2Xywpr0fk97V9v1BLRScHt94nnxAFph6lmuuFf3MWKjenskNEnqO765">
+
+							<div class="mailchimp-inputbox" id="subscribe-content">
+								<p>
+									<input type="email" id="post-text" name="post-text" placeholder="البريد الألكتروني" required="">
+								</p>
+								<p>
+									<button type="submit" onclick="SubscribeJs()"
+									class="cmt-btn Arabic_font cmt-btn-size-md cmt-btn-shape-round cmt-btn-style-fill cmt-bgcolor-red">
+										ارسل
+									</button>
+								</p>
+							</div>
+							<div id="subscribe-msg"></div>
+						</form>
+						<div class="widget d-flex pt-2">
+
+							<div class="social-icons m-0">
+								<h3 class="widget-title mb-10" >تابعنا</h3>
+								<ul class="list-inline d-flex">
+									<li>
+										<a class=" tooltip-top" target="_blank" href="https://bit.ly/expr2Wzzoeg"
+										   data-tooltip="WhatsApp"><i
+												class="fa fa-whatsapp"></i></a>
+									</li>
+
+									<li>
+										<a class="tooltip-top" target="_blank"
+										   href="https://www.facebook.com/Expr" data-tooltip="Facebook"><i
+												class="fa fa-facebook"></i></a>
+									</li>
+									<li>
+										<a class="tooltip-top" target="_blank"
+										   href="https://www.instagram.com/almtmyzexpr/" data-tooltip="Instagram"><i
+												class="fa fa-instagram"></i></a>
+									</li>
+									<li>
+										<a class="tooltip-top" target="_blank"
+										   href="https://www.linkedin.com/company/almtmyz" data-tooltip="linkedin"><i
+												class="fa fa-linkedin"></i></a>
+									</li>
+
+									<li>
+										<a class="tooltip-top" target="_blank"
+										   href="https://www.youtube.com/channel/almtmyzUCFHi7n8VcvU3E_p0l9X2Zcg"
+										   data-tooltip="Youtube"><i
+												class="fa fa-youtube"></i></a>
+									</li>
+
+									<li>
+										<a class="tooltip-top" target="_blank"
+										   href="https://twitter.com/almtmyzexpr?lang=en" data-tooltip="X"><i
+												class="bi bi-twitter-x"></i></a>
+									</li>
+
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="bottom-footer-text">
+		<div class="container">
+			<div class="row copyright">
+				<div class="col-lg-7 col-md-7 col-sm-12">
+					<span> جميع الحقوق محفوظة المتميز اكسبرس 2024
+				</div>
+				<div class="col-lg-5 col-md-5 col-sm-12">
+					<div id="footer-nav-menu" class="d-flex flex-row justify-content-end">
+						<ul class="footer-nav-menu">
+							<li><a href="index-21.html">الخصوصية</a></li>
+
+							<li><a href="index-3.html">تواصل معنا</a></li>
+							<li><a href="index-10.html">الاسئلة الشائعة</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!--back-to-top start-->
+<a id="totop" href="#top" class="topbutcolor" style="left: 0;">
+	<i class="fa fa-angle-up"></i>
+</a>
+<!--back-to-top end-->
+
+
+
+<style>
+
+	#TFCallButtonFloat {
+    position: fixed !important;
+    bottom: 123px;
+    right: 43px;
+	z-index: 1;
+}
+	#totop.top-visible {
+
+    bottom: 190px !important;
+	right: 50px !important;
+}
+
+@media (max-width: 992px) {
+
+    #TFCallButtonFloat{
+      right: 7%;
+    }
+
+	#totop.top-visible{
+		right: 33px !important;
+	}
+  }
+</style>
+
+<script src="js/bootstrap-datepicker.min.js"></script>
+<!--Start of TeleFinity WebRTC-SIP Gateway Script-->
+<script>
+	const jsScript = document.createElement('script');
+	jsScript.src = 'https://embed.webrtc.tele-finity.com/Script?Token=D5862D7936584EA9B40B97ECE253B85117DC1B45B5DC4ACDA2964782979DD44F';
+	document.body.appendChild(jsScript);
+	jsScript.addEventListener('load', () => {
+		var pTFRTCSIP = new Window.TFRTCSIP();
+		pTFRTCSIP.Init();
+	})
+</script>
+
+
+
+
+<script type="text/javascript">
+    var eventMethod = window.addEventListener
+      ? "addEventListener"
+      : "attachEvent";
+    var eventer = window[eventMethod];
+    var messageEvent = eventMethod === "attachEvent" ? "onmessage" : "message";
+
+    eventer(messageEvent, function (e) {
+      console.log(e);
+      if (e.origin !== "https://d2ka5v04lnst0s.cloudfront.net/") return;
+
+      if (e.data.open == true) {
+        document
+          .getElementById("frameContainer")
+          .classList.remove("en_lang_height");
+        // add class to show the full the cotainer
+        document
+          .getElementById("frameContainer")
+          .classList.add("chatbot-container");
+        document
+          .getElementById("frameContainer")
+          .classList.remove("ar_lang_height");
+      } else if (e.data.close_welcome == true) {
+        document
+          .getElementById("frameContainer")
+          .classList.remove("ar_lang_height");
+        document
+          .getElementById("frameContainer")
+          .classList.remove("en_lang_height");
+        document
+          .getElementById("frameContainer")
+          .classList.add("normal-height");
+      } else if (e.data.open == false) {
+        // remove this class
+        document
+          .getElementById("frameContainer")
+          .classList.remove("chatbot-container");
+        document
+          .getElementById("frameContainer")
+          .classList.add("normal-height");
+      }
+    });
+
+    // please set the url of the iframe chatbot url
+    var url_string = document.getElementById("frameContainer").src;
+    var url = new URL(url_string.html);
+    var show_welcome = url.searchParams.get("show_welcome");
+    var langauge = url.searchParams.get("lang");
+
+    if (show_welcome == "false") {
+      document.getElementById("frameContainer").classList.add("normal-height");
+    } else {
+      if (langauge == "ar") {
+        document
+          .getElementById("frameContainer")
+          .classList.add("ar_lang_height");
+      } else {
+        document
+          .getElementById("frameContainer")
+          .classList.add("en_lang_height");
+      }
+    }
+  </script>
+
+
+
+
+</div>
+
+<link rel="stylesheet" href="css/cookieconsent-ar.css" media="print" onload="this.media='all'">
+
+<script defer src="js/cookieconsent.html"></script>
+<script defer src="js/cookieconsent-init.html"></script>
+
+
+
+
+<!-- Javascript -->
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/jquery-migrate-3.3.2.min.js"></script>
+<script type="text/javascript" src="https://new.almtmyzksa.com/ar/jsi18n/"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.easing.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/jquery-waypoints.js"></script>
+<script src="js/jquery-validate.js"></script>
+<script src="js/jquery.prettyphoto.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/numinate.min.js"></script>
+<script src="js/main_ar.js"></script>
+<script src="js/site.js"></script>
+<script src="js/htmx.min.js" defer></script>
+
+</body>
+
+<!-- Mirrored from al-mtmyz.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 05 Oct 2024 11:20:36 GMT -->
+</html>

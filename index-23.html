@@ -1,0 +1,77 @@
+<html dir = "rtl" >
+
+<form method="post"  hx-post="/ar/tracking/url_string/"  class="modal-content">
+  <input type="hidden" name="csrfmiddlewaretoken" value="uNtKJruJI0ixVDBTYgGsNBaAWb2Jjs4TuJRslaNjowLtgUu8LrDxp83dLiLjZbBG">
+  <div class="modal-header btn-color">
+    <h5 class="modal-title text-white" style="font-size: 18px;"> تحديثات الشحنة</h5>
+  </div>
+  <div class="modal-body" style="padding: 10px !important;">
+      <h6 class="blueColor"> أبلغني عندما تكون الشحنة:</h6>
+  <div class="form-check-inline">
+      <label class="form-check-label">
+          <input type="checkbox" name="Pickup_option" id="id_Pickup_option"> تم استلامها
+          </label>
+    </div>
+    <div class="form-check-inline">
+      <label class="form-check-label">
+          <input type="checkbox" name="OFD_option" id="id_OFD_option">خارجة للتوصيل
+      </label>
+    </div>
+    <div class="form-check-inline">
+      <label class="form-check-label">
+          <input type="checkbox" name="Delivered_option" id="id_Delivered_option">تم توصيلها
+      </label>
+    </div>
+    <div class="form-group px-2">
+      <input type="text" id="waybillno" name="waybillno" value="url_string" readonly>
+
+      <!-- <label for="recipient-name" class="col-form-label">waybillNo:</label> -->
+        <!-- <input type="text" name="waybillNo" placeholder="رقم الشحنة" class="form-control" onkeypress="return isNumberKey(event)" maxlength="9" id="id_waybillNo">
+    </div>
+     -->
+    <span>من فضلك أدخل عنوان بريدك الإلكتروني هنا لتتلقى تحديثات الشحنة.</span>
+      <div class="form-group px-2">
+        <!-- <label for="recipient-name" class="col-form-label">Email:</label> -->
+          <input type="email" name="EmailAddress" placeholder="أدخل عنوان البريد الإلكتروني" class="form-control" maxlength="50" required id="id_EmailAddress">
+      </div>
+      
+
+  </div>
+  <button class="btn btn-color text-white cmt-btn cmt-btn-size-sm cmt-btn-shape-square but-radius" type="submit">ارسال</button>
+
+  <div class="modal-footer" style="justify-content: flex-start; margin-top:6px;">
+    <span class="blueColor"> ملاحظة: هذه الإشعارات تنطبق فقط على هذه الشحنة</span>
+  </div>
+</form>
+
+<style>
+  .blueColor{
+      color: #06205C;
+      font-weight: 600;
+  }
+  .btn-color{
+      background-color: #06205C;
+  }
+  input[type="checkbox"]:checked:after {
+  border: solid #e3183700 !important;}
+</style>
+
+<script src="js/sweetalert2.all.min.js"></script>
+
+
+
+<script>
+  $("#testmodal").modal("hide")
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</html>

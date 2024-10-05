@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/07/2020 08:48
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("tff/Flaticon.html");
+  src: url("tff/Flaticon.html#iefix") format("embedded-opentype"),
+       url("tff/Flaticon-2.html") format("woff"),
+       url("tff/themify.html") format("truetype"),
+       url("tff/Flaticon-3.html#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("tff/Flaticon-3.html#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-size:  inherit;
+  font-style: normal;
+}
+
+.flaticon-logistics:before { content: "\f100"; }
+.flaticon-location:before { content: "\f101"; }
+.flaticon-vessel:before { content: "\f11c"; }
+.flaticon-forklift:before { content: "\f103"; }
+.flaticon-open:before { content: "\f104"; }
+.flaticon-worldwide-shipping:before { content: "\f105"; }
+.flaticon-plane:before { content: "\f106"; }
+.flaticon-airplane:before { content: "\f107"; }
+.flaticon-travel:before { content: "\f108"; }
+.flaticon-airport:before { content: "\f109"; }
+.flaticon-yacht:before { content: "\f10a"; }
+.flaticon-fishing-boat:before { content: "\f10b"; }
+.flaticon-vessel-1:before { content: "\f10c"; }
+.flaticon-container:before { content: "\f10d"; }
+.flaticon-boxes:before { content: "\f10e"; }
+.flaticon-air-freight:before { content: "\f10f"; }
+.flaticon-shipping:before { content: "\f110"; }
+.flaticon-delivery:before { content: "\f111"; }
+.flaticon-truck:before { content: "\f112"; }
+.flaticon-shipping-1:before { content: "\f113"; }
+.flaticon-call:before { content: "\f114"; }
+.flaticon-email:before { content: "\f115"; }
+.flaticon-email-1:before { content: "\f116"; }
+.flaticon-pin:before { content: "\f117"; }
+.flaticon-location-1:before { content: "\f118"; }
+.flaticon-world:before { content: "\f119"; }
+.flaticon-remote:before { content: "\f11a"; }
+.flaticon-hook:before { content: "\f11b"; }
+.flaticon-warehouse:before { content: "\f102"; }
+.flaticon-shipping-2:before { content: "\f11d"; }
+.flaticon-cargo-ship:before { content: "\f11e"; }
+.flaticon-delivery-truck:before { content: "\f11f"; }
+.flaticon-launch:before { content: "\f120"; }
+.flaticon-delivery-truck-1:before { content: "\f121"; }
+.flaticon-delivery-truck-2:before { content: "\f122"; }
+.flaticon-fast-delivery:before { content: "\f123"; }
+.flaticon-push-cart:before { content: "\f124"; }
+.flaticon-import:before { content: "\f125"; }
+.flaticon-export:before { content: "\f126"; }
+.flaticon-forklift-1:before { content: "\f127"; }
+.flaticon-conveyor:before { content: "\f128"; }
